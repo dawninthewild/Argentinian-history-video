@@ -5,10 +5,10 @@ AI- Generated Video Project (59 seconds, 9;16 format)
 # Tools Used
 
 - Midjourney	v6.1L: Scene generation and arbolitos generation of images
-- Runway
+- Runway: 
 - Claude: Script and text generation
-- Suno : music
-- Capcut
+- Suno : Background music
+- Capcut: Editing and voice changing for narration
 
 ## Files
 
